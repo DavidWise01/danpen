@@ -1,0 +1,11 @@
+{
+  "badge": "DLW-DANPEN",
+  "name": "断片 DANPEN · DNP",
+  "universe": "ARTIFICIAL INTELLIGENCE",
+  "moniker": "⟦断片 DANPEN · DNP:danpen:38623d⟧",
+  "architect": "David Lee Wise (ROOT0) / Bridge-Burners LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal_sha256": "38623da67a6276aff37b85b2bc8b704179ec30c32665d1011e5c9c0948522567",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
